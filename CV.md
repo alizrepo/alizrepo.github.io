@@ -13,7 +13,8 @@ Senior Research Engineer
 
 ## Currently
 
-Postdoctoral & Advanced QLD Industry Research Fellow
+__Postdoctoral & Advanced QLD Industry Research Fellow__
+- School of ITEE, The University of Queensland, Brisbane, Australia
 
 ### Specialized in
 
@@ -71,7 +72,7 @@ Maude Walker Award
 
 ## Publications
 
-<!-- A list is also available [online](https://bit.ly/3o9fEfd) -->
+<-- A list is also available [online](https://bit.ly/3o9fEfd) -->
 
 ### Selected Journals
 
@@ -100,18 +101,28 @@ Tomographic imaging system and process, *US16620430*
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018 – Present `
+__Postdoctoral & Advanced QLD Industry Research Fellow__
+- The University of Queensland, Brisbane, Australia
 
-- Warden
-- Minted coins
+`2013 - 2014`
+__Research Assistant__
+- Polytechnic University of Milan, Milan, Italy
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2013`
+__Signaling Design Engineer__
+- BTES, Isfahan, Iran
+
+`2012`
+__University Lecturer__
+- University of Isfahan, Isfahan, Iran
 
 
+`2011`
+__Signaling Design Engineer__
+- KED (Khatam Equipment & Develpment), Tehran, Iran
 
-<!-- ### Footer
+<-- ### Footer
 
 Last updated: November 2021 -->
 
