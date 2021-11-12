@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: ""
 ---
 
 I am a Senior Research Engineer with more than 7 years of experience in
