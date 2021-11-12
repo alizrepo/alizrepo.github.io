@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Ali's CV
+title: Ali Zamani, PhD
 ---
-# Ali Zamani
-Senior Research Engineer
 
+### Senior Research Engineer
 <div id="webaddress">
 <a href="alizmni.github.io">alizmni.github.io</a>
 | <a href="https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=4iDc7pMAAAAJ&sortby=pubdate">Google scholar profile</a>
 | <a href="https://itee.uq.edu.au/profile/2402/ali-zamani">University profile</a>
 </div>
 
+### Currently
 
-## Currently
-
-__Postdoctoral & Advanced QLD Industry Research Fellow__, The University of Queensland, Brisbane, Australia
+__Advanced QLD Industry Research Fellow__at the University of Queensland, Brisbane, Australia
 
 ### Specialized in
 
@@ -143,7 +141,7 @@ __Signaling Design Engineer__
 
 
 
-### Footer
-Last updated: November 2021
+### _Footer_
+> Last updated: November 2021
 
 
