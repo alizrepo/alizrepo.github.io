@@ -6,17 +6,17 @@ title: Ali Zamani, PhD
 ### Senior Research Engineer
 <div id="webaddress">
 <a href="alizmni.github.io">alizmni.github.io</a>
-| <a href="https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=4iDc7pMAAAAJ&sortby=pubdate">Google scholar profile</a>
+| <a href="https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=4iDc7pMAAAAJ&sortby=pubdate">Google scholar</a>
 | <a href="https://itee.uq.edu.au/profile/2402/ali-zamani">University profile</a>
 </div>
 
 ### Currently
 
-__Advanced QLD Industry Research Fellow__at the University of Queensland, Brisbane, Australia
+Advanced QLD Industry Research Fellow at the University of Queensland, Brisbane, Australia
 
 ### Specialized in
 
-Programming, Signal Processing, Computational techniques.
+Programming, Signal Processing, Computational Techniques, Signalling
 
 
 ### Research interests
