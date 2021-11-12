@@ -76,10 +76,10 @@ Maude Walker Award
 
 
 `2021`
-Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging, A. Al-Saffar, A Zamani, A Stancombe, A Abbosh, IEEE Transactions on Antennas and Propagation
+Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging, A. Al-Saffar, A Zamani, A Stancombe, A Abbosh, IEEE Transactions on Antennas and Propagation. [[Link]](https://alizmni.github.io/boundary-estimation/)
 
 `2020`
-Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, IEEE Transactions on Computational Imaging
+Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, IEEE Transactions on Computational Imaging. [[Link]](https://alizmni.github.io/boundary-estimation/)
 
 `2020`
 Expedited Stroke Imaging with Electromagnetic Polar Sensitivity Encoding, A Trakic, A Brankovic, A Zamani, N Nguyen-Trong, B Mohammed, IEEE Transactions on Antennas and Propagation
@@ -139,9 +139,6 @@ __University Lecturer__
 __Signaling Design Engineer__
 - KED (Khatam Equipment & Develpment), Tehran, Iran
 
-
-
-### _Footer_
-> Last updated: November 2021
+`Last updated: November 2021`
 
 
