@@ -1,6 +1,6 @@
 ---
 title:  "Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging"
-mathjax: true
+mathjax: false
 layout: post
 categories: media
 ---
