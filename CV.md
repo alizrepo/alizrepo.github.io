@@ -72,13 +72,13 @@ Maude Walker Award
 
 ## Publications
 
-<-- A list is also available [online](https://bit.ly/3o9fEfd) -->
+*The full list is  available [online](https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=4iDc7pMAAAAJ&sortby=pubdate)*
 
 ### Selected Journals
 
 1.	Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging, A. Al-Saffar, A Zamani, A Stancombe, A Abbosh, IEEE Transactions on Antennas and Propagation, 2021
-2.	Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, …, IEEE Transactions on Computational Imaging, 2020
-3.	Expedited Stroke Imaging with Electromagnetic Polar Sensitivity Encoding, A Trakic, A Brankovic, A Zamani, N Nguyen-Trong, B Mohammed, ..., IEEE Transactions on Antennas and Propagation, 2020
+2.	Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, IEEE Transactions on Computational Imaging, 2020
+3.	Expedited Stroke Imaging with Electromagnetic Polar Sensitivity Encoding, A Trakic, A Brankovic, A Zamani, N Nguyen-Trong, B Mohammed, IEEE Transactions on Antennas and Propagation, 2020
 4.	Boundary estimation of imaged object in microwave medical imaging using antenna resonant frequency shift, A Zamani, SA Rezaeieh, KS Bialkowski, AM Abbosh, IEEE Transactions on Antennas and Propagation 66 (2), 927-936, 2017
 5.	Estimation of frequency dispersive complex permittivity seen by each antenna for enhanced multistatic radar medical imaging, A Zamani, AM Abbosh, IEEE Transactions on Antennas and Propagation 65 (7), 3702-3711, 2017
 6.	Hybrid clutter rejection technique for improved microwave head imaging, A Zamani, A Abbosh, IEEE Transactions on Antennas and Propagation 63 (11), 4921-4931, 2015
@@ -117,13 +117,13 @@ __Signaling Design Engineer__
 __University Lecturer__
 - University of Isfahan, Isfahan, Iran
 
-
 `2011`
 __Signaling Design Engineer__
 - KED (Khatam Equipment & Develpment), Tehran, Iran
 
-<-- ### Footer
 
-Last updated: November 2021 -->
+
+### Footer
+Last updated: November 2021
 
 
