@@ -94,7 +94,7 @@ Estimation of frequency dispersive complex permittivity seen by each antenna for
 Design of a controller for rail eddy current brake system, A Zamani, IET Electrical Systems in Transportation 4 (2), 38-44, 2014. [[Link]](https://alizmni.github.io/ECB_Controller/)
 
 `2012`
-Applying metamodeling techniques in the design and optimization of train wheel detector, A Zamani, A Mirabadi, F Schmid, Sensor Review, 2012. {{Link]](https://alizmni.github.io/metamodeling-for-wheel-detector-optimization/)
+Applying metamodeling techniques in the design and optimization of train wheel detector, A Zamani, A Mirabadi, F Schmid, Sensor Review, 2012. [[Link]](https://alizmni.github.io/metamodeling-for-wheel-detector-optimization/)
 
 `2011`
 Optimization of sensor orientation in railway wheel detector using kriging method, A Zamani, A Mirabadi, Journal of Electromagnetic Analysis and Applications, 2011
