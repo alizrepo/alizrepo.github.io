@@ -5,7 +5,7 @@ title: Ali Zamani, PhD
 
 ### Senior Research Engineer
 <div id="webaddress">
-<a href="alizrepo.github.io">alizrepo.github.io</a>
+<a href="https://github.com/alizrepo">github</a>
 | <a href="https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=4iDc7pMAAAAJ&sortby=pubdate">Google scholar</a>
 | <a href="https://itee.uq.edu.au/profile/2402/ali-zamani">University profile</a>
 </div>
