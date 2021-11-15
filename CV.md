@@ -76,25 +76,25 @@ Maude Walker Award
 
 
 `2021`
-Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging, A. Al-Saffar, A Zamani, A Stancombe, A Abbosh, IEEE Transactions on Antennas and Propagation. [[Link]](https://alizmni.github.io/boundary-estimation/)
+Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging, A. Al-Saffar, A Zamani, A Stancombe, A Abbosh, IEEE Transactions on Antennas and Propagation. [[Link]](https://alizrepo.github.io/boundary-estimation/)
 
 `2020`
-Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, IEEE Transactions on Computational Imaging. [[Link]](https://alizmni.github.io/boundary-estimation/)
+Unsupervised Algorithm for Brain Anomalies Localization in Electromagnetic Imaging, A Brankovic, A Zamani, A Trakic, K Bialkowski, IEEE Transactions on Computational Imaging. [[Link]](https://alizrepo.github.io/boundary-estimation/)
 
 `2020`
-Expedited Stroke Imaging with Electromagnetic Polar Sensitivity Encoding, A Trakic, A Brankovic, A Zamani, N Nguyen-Trong, B Mohammed, IEEE Transactions on Antennas and Propagation. [[Link]](https://alizmni.github.io/PolarSensitivityEncoding/)
+Expedited Stroke Imaging with Electromagnetic Polar Sensitivity Encoding, A Trakic, A Brankovic, A Zamani, N Nguyen-Trong, B Mohammed, IEEE Transactions on Antennas and Propagation. [[Link]](https://alizrepo.github.io/PolarSensitivityEncoding/)
 
 `2017`
-Boundary estimation of imaged object in microwave medical imaging using antenna resonant frequency shift, A Zamani, SA Rezaeieh, KS Bialkowski, AM Abbosh, IEEE Transactions on Antennas and Propagation 66 (2), 927-936. [[Link]](https://alizmni.github.io/resonance_shift_based-boundary-estimation/)
+Boundary estimation of imaged object in microwave medical imaging using antenna resonant frequency shift, A Zamani, SA Rezaeieh, KS Bialkowski, AM Abbosh, IEEE Transactions on Antennas and Propagation 66 (2), 927-936. [[Link]](https://alizrepo.github.io/resonance_shift_based-boundary-estimation/)
 
 `2017`
-Estimation of frequency dispersive complex permittivity seen by each antenna for enhanced multistatic radar medical imaging, A Zamani, AM Abbosh, IEEE Transactions on Antennas and Propagation 65 (7), 3702-3711. [[Link]](https://alizmni.github.io/permittivity-estimation/)
+Estimation of frequency dispersive complex permittivity seen by each antenna for enhanced multistatic radar medical imaging, A Zamani, AM Abbosh, IEEE Transactions on Antennas and Propagation 65 (7), 3702-3711. [[Link]](https://alizrepo.github.io/permittivity-estimation/)
 
 `2014`
-Design of a controller for rail eddy current brake system, A Zamani, IET Electrical Systems in Transportation 4 (2), 38-44, 2014. [[Link]](https://alizmni.github.io/ECB_Controller/)
+Design of a controller for rail eddy current brake system, A Zamani, IET Electrical Systems in Transportation 4 (2), 38-44, 2014. [[Link]](https://alizrepo.github.io/ECB_Controller/)
 
 `2012`
-Applying metamodeling techniques in the design and optimization of train wheel detector, A Zamani, A Mirabadi, F Schmid, Sensor Review, 2012. [[Link]](https://alizmni.github.io/metamodeling-for-wheel-detector-optimization/)
+Applying metamodeling techniques in the design and optimization of train wheel detector, A Zamani, A Mirabadi, F Schmid, Sensor Review, 2012. [[Link]](https://alizrepo.github.io/metamodeling-for-wheel-detector-optimization/)
 
 `2011`
 Optimization of sensor orientation in railway wheel detector using kriging method, A Zamani, A Mirabadi, Journal of Electromagnetic Analysis and Applications, 2011
