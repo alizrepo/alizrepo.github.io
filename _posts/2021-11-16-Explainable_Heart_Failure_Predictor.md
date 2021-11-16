@@ -34,4 +34,4 @@ This dataset was created by combining different datasets already available indep
 
 source: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/; https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
-[Link to the code](https://github.com/alizrepo/Explainable_Heart_Failure_Predictor/edit/main/Explainable_Heart_Failure_Predictor.ipynb)
+[Link to the code](https://github.com/alizrepo/Explainable_Heart_Failure_Predictor/blob/main/Explainable_Heart_Failure_Predictor.ipynb)
