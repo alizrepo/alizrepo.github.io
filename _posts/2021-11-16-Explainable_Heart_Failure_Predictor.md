@@ -7,9 +7,6 @@ categories: media
 
 ![Block diagram](/assets/photos/Heart_failure_results.PNG)
 
-
-# <h1><center>Explanable Machine Learning for Heart Failure Prediction</center></h1>
-
 <center><img src="attachment:image.png" style="width:820px;height:400px;"></center>
 
 ## Introduction
