@@ -32,6 +32,7 @@ This dataset was created by combining different datasets already available indep
 11. *ST_Slope*: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 - *HeartDisease*: output class [1: heart disease, 0: Normal]
 
-source: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/; https://www.kaggle.com/fedesoriano/heart-failure-prediction
+source: [](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
+[](https://www.kaggle.com/fedesoriano/heart-failure-prediction/)
 
 [Link to the code](https://github.com/alizrepo/Explainable_Heart_Failure_Predictor/blob/main/Explainable_Heart_Failure_Predictor.ipynb)
