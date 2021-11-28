@@ -43,6 +43,8 @@ The SHAP values were calculated globally and locally to explain the impact of ea
 * People who have **high oldpeak**, are more prone to heart disease.
 * Higher the **exercise angina**, the higher the chance of having heart disease
 * **Older patients** are more at risk of having heart disease
+
+
 Source of data:
 
 [https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
