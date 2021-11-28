@@ -1,5 +1,5 @@
 ---
-title:  "Explanable Machine Learning for Heart Failure Prediction"
+title:  "Explainable Machine Learning for Heart Failure Prediction"
 mathjax: false
 layout: post
 categories: media
@@ -32,6 +32,17 @@ This dataset was created by combining different datasets already available indep
 11. *ST_Slope*: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 - *HeartDisease*: output class [1: heart disease, 0: Normal]
 
+
+## Findings
+Comparing the performance of the four different techniques, XGBoost outperformed the others by the accuracy and recall scores of 88.7 and 90.3, respectively. Tuning the hyperparameters of XGBoost could increase the accuracy and recall scores of prediction to 89.3 and 91.7, respectively.
+The SHAP values were calculated globally and locally to explain the impact of each feature on the model, as well as the symptoms of each patient that led to their associated diagnosis. From the SHAP value plots, we can conclude that:
+* **ST_Slope** has the highest contribution to the prediction. 
+* High ST_Slope values (**upsloping**) pushes the prediction to class 0 (**Normal**), while the **flat slope** of the peak exercise ST segment pushes the model output to **heart disease**. 
+* Patients with **ASYM ChestPainType**, which is encoded to 0 (blue colour in the graph) are _more likely_ to have **heart disease**.
+* **Males** (encoded to 1) are _more likely_ to have **heart disease** than females.* 
+* People who have **high oldpeak**, are more prone to heart disease.
+* Higher the **exercise angina**, the higher the chance of having heart disease
+* **Older patients** are more at risk of having heart disease
 Source of data:
 
 [https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
