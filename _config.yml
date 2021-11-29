@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/alizrepo"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=4iDc7pMAAAAJ&hl=en"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/ali-zamani-76b1234b"}
+  - {title: Kaggle, icon: kaggle, url: "https://www.kaggle.com/alizmn/code?scroll=true"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
