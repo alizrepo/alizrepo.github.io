@@ -16,7 +16,8 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 ![X-ray](/assets/photos/xray.png)
 
 
-http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+[http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5](http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
+
 
 ## Objectives
 The main objective of this work is to predict if a patient is at risk of having pneumonia or not, based on the chest X-ray image of the patients. To that end, 5,863 X-Ray images of retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center are used to train and test a **Convolutional Neural Network** to classify between normal and pneumonia cases.
